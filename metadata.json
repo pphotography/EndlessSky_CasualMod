@@ -7,6 +7,7 @@ description: "Makes gameplay more casual
 - Ships are heavier making navigation and combat slower
 - Higher range for some cannons to compensate ship speed
 - Less, slower and weaker asteroids to increase clarity, FPS and easier mining"
+- Bigger sprites for bigger ships
 thumbnail : https://raw.githubusercontent.com/pphotography/EndlessSky_CasualMod/gh-pages/casualmod_logo.png
 banner : https://raw.githubusercontent.com/pphotography/EndlessSky_CasualMod/gh-pages/casualmod_logo.png
 downloadLink: "https://github.com/pphotography/EndlessSky_CasualMod/releases"
