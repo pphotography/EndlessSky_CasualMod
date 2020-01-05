@@ -2,7 +2,7 @@
 mod-id: casual-mod
 title: "Casual Mod"
 author: "<a href=\"https://github.com/pphotography\">PPhoto</a>"
-contributors: Myself for gamedata, "<a href=\"https://github.com/Wrzlprnft\">Wrzlprnft</a> (Maximilian Korber) for ship graphics"
+contributors: "Myself for gamedata, <a href=\"https://github.com/Wrzlprnft\">Wrzlprnft</a> (Maximilian Korber) for ship graphics"
 description: "Makes gameplay more casual
 - Ships are heavier making navigation and combat slower
 - Higher range for some cannons to compensate ship speed
