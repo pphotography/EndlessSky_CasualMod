@@ -1,6 +1,6 @@
 # EndlessSky Casual Mod
 ![Screenshot](https://github.com/pphotography/EndlessSky_CasualMod/blob/gh-pages/casualmod_screenshot_sm.jpg "Screenshot")
-## content
+## Content
 Makes gameplay for Endless-Sky more casual
 - Ships are heavier making navigation and combat slower
 - Higher range for some cannons to compensate ship speed
