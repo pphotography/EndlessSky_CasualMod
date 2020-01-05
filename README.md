@@ -5,7 +5,7 @@ Makes gameplay for Endless-Sky more casual
 - Ships are heavier making navigation and combat slower
 - Higher range for some cannons to compensate ship speed
 - Less, slower and weaker asteroids to increase clarity, FPS and easier mining
-
+- Bigger sprites for bigger ships
 
 ## WIP:
 - Modify asteroid count and speed in more star systems
