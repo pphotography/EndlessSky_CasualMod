@@ -1916,13 +1916,13 @@ system Acrux
 	link Minkar
 	link "Zeta Centauri"
 	link Izar
-	asteroids "small rock" 82 6.7183
-	asteroids "medium rock" 91 3.4385
-	asteroids "large rock" 17 4.8139
-	asteroids "medium metal" 44 4.3378
-	asteroids "large metal" 19 4.8139
-	minables lead 34 5.87828
-	minables titanium 6 9.19767
+	asteroids "small rock" 12 1.7183
+	asteroids "medium rock" 21 0.4385
+	asteroids "large rock" 7 0.8139
+	asteroids "medium metal" 14 1.3378
+	asteroids "large metal" 9 0.8139
+	minables lead 4 0.87828
+	minables titanium 6 0.19767
 	trade Clothing 313
 	trade Electronics 655
 	trade Equipment 580
@@ -10364,12 +10364,12 @@ system "Gamma Corvi"
 	belt 1556
 	link Spica
 	asteroids "small rock" 20 1.5168
-	asteroids "medium rock" 59 2.8608
-	asteroids "large rock" 17 2.1696
-	asteroids "small metal" 29 1.3248
-	asteroids "medium metal" 48 1.9968
-	asteroids "large metal" 36 1.6704
-	minables lead 49 2.14521
+	asteroids "medium rock" 19 0.8608
+	asteroids "large rock" 17 1.1696
+	asteroids "small metal" 9 1.3248
+	asteroids "medium metal" 18 1.9968
+	asteroids "large metal" 26 1.6704
+	minables lead 19 1.64521
 	minables neodymium 1 2.38531
 	trade Clothing 203
 	trade Electronics 763
@@ -18084,14 +18084,14 @@ system Procyon
 	link Sirius
 	link Pollux
 	link Capella
-	asteroids "small rock" 9 4.4226
-	asteroids "medium rock" 16 2.7594
-	asteroids "large rock" 157 4.4604
-	asteroids "small metal" 11 2.9862
-	asteroids "medium metal" 126 2.6838
-	asteroids "large metal" 5 4.347
-	minables iron 1 5.11549
-	minables silicon 84 4.13794
+	asteroids "small rock" 9 1.4226
+	asteroids "medium rock" 16 0.7594
+	asteroids "large rock" 17 1.4604
+	asteroids "small metal" 11 1.9862
+	asteroids "medium metal" 12 0.6838
+	asteroids "large metal" 5 2.347
+	minables iron 1 2.11549
+	minables silicon 14 0.13794
 	trade Clothing 197
 	trade Electronics 691
 	trade Equipment 500
@@ -22620,14 +22620,14 @@ system Unukalhai
 	belt 1968
 	link Zubenelgenubi
 	link Sabik
-	asteroids "small rock" 9 4.5864
-	asteroids "medium rock" 35 2.9484
-	asteroids "large rock" 23 3.7856
-	asteroids "small metal" 42 1.8564
-	asteroids "medium metal" 190 4.55
-	asteroids "large metal" 25 2.0748
-	minables neodymium 19 5.48915
-	minables silicon 70 6.48089
+	asteroids "small rock" 9 1.5864
+	asteroids "medium rock" 25 0.9484
+	asteroids "large rock" 23 0.7856
+	asteroids "small metal" 12 1.8564
+	asteroids "medium metal" 10 2.55
+	asteroids "large metal" 15 2.0748
+	minables neodymium 9 0.48915
+	minables silicon 7 1.48089
 	trade Clothing 315
 	trade Electronics 758
 	trade Equipment 376
