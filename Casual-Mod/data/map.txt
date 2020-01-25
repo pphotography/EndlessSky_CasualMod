@@ -2713,12 +2713,12 @@ system Algorel
 	link Turais
 	link Mizar
 	link Phecda
-	asteroids "small rock" 2 3.094
+	asteroids "small rock" 2 1.094
 	asteroids "medium rock" 5 2.142
 	asteroids "large rock" 2 1.768
-	asteroids "small metal" 7 4.998
-	asteroids "medium metal" 75 3.434
-	asteroids "large metal" 27 3.4
+	asteroids "small metal" 7 2.998
+	asteroids "medium metal" 75 2.434
+	asteroids "large metal" 27 1.4
 	trade Clothing 256
 	trade Electronics 821
 	trade Equipment 490
@@ -2899,8 +2899,8 @@ system Alioth
 	link Vindemiatrix
 	link Alphecca
 	link Holeb
-	asteroids "small metal" 5 4.0832
-	asteroids "medium metal" 2 4.048
+	asteroids "small metal" 5 3.0832
+	asteroids "medium metal" 2 1.048
 	asteroids "large metal" 4 3.7664
 	minables copper 1 4.44449
 	trade Clothing 293
@@ -2948,11 +2948,11 @@ system Alkaid
 	habitable 1080
 	belt 1142
 	link Hadar
-	asteroids "medium rock" 7 5.2164
+	asteroids "medium rock" 7 2.2164
 	asteroids "large rock" 3 3.1464
-	asteroids "medium metal" 13 3.9744
-	asteroids "large metal" 2 4.8852
-	minables neodymium 3 4.36212
+	asteroids "medium metal" 13 1.9744
+	asteroids "large metal" 2 2.8852
+	minables neodymium 3 1.36212
 	trade Clothing 329
 	trade Electronics 720
 	trade Equipment 632
@@ -3016,14 +3016,14 @@ system Almaaz
 	link Hatysa
 	link Mintaka
 	link Unagi
-	asteroids "small rock" 34 4.8195
-	asteroids "medium rock" 17 6.5772
-	asteroids "large rock" 33 4.3659
-	asteroids "small metal" 1 3.6288
-	asteroids "large metal" 1 7.2576
-	minables iron 7 7.81811
-	minables silicon 6 9.57028
-	minables silver 4 6.29355
+	asteroids "small rock" 24 1.8195
+	asteroids "medium rock" 17 2.5772
+	asteroids "large rock" 13 1.3659
+	asteroids "small metal" 1 0.6288
+	asteroids "large metal" 1 2.2576
+	minables iron 7 2.81811
+	minables silicon 6 2.57028
+	minables silver 4 1.29355
 	trade Clothing 253
 	trade Electronics 841
 	trade Equipment 511
