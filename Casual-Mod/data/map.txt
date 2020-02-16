@@ -6408,7 +6408,7 @@ system Chikatip
 	asteroids "medium rock" 59 0.8152
 	asteroids "large rock" 5 0.8934
 	asteroids "small metal" 18 1.5415
-	asteroids "medium metal" 89 1.6979
+	asteroids "medium metal" 59 1.6979
 	asteroids "large metal" 22 2.0664
 	minables lead 2 2.34146
 	minables silicon 1 1.86922
@@ -6461,13 +6461,13 @@ system Chimitarp
 	link Sepetrosk
 	link Farbutero
 	link Similisti
-	asteroids "small rock" 3 2.717
-	asteroids "medium rock" 103 4.0546
-	asteroids "large rock" 7 4.7234
-	asteroids "small metal" 5 5.9356
-	asteroids "medium metal" 64 5.7684
-	asteroids "large metal" 17 3.1768
-	minables silicon 45 7.62429
+	asteroids "small rock" 3 1.717
+	asteroids "medium rock" 43 1.0546
+	asteroids "large rock" 27 0.7234
+	asteroids "small metal" 5 1.9356
+	asteroids "medium metal" 64 0.7684
+	asteroids "large metal" 17 1.1768
+	minables silicon 25 1.62429
 	trade Clothing 205
 	trade Electronics 731
 	trade Equipment 594
@@ -6530,9 +6530,9 @@ system Chirr'ay'akai
 	belt 1425
 	link Prakacha'a
 	link Ap'arak
-	asteroids "large rock" 1 3.762
-	asteroids "small metal" 2 2.964
-	asteroids "medium metal" 3 5.548
+	asteroids "large rock" 1 1.762
+	asteroids "small metal" 2 0.964
+	asteroids "medium metal" 3 2.548
 	asteroids "large metal" 1 3.154
 	trade Clothing 370
 	trade Electronics 729
@@ -6577,12 +6577,12 @@ system Chornifath
 	habitable 486.68
 	belt 1434
 	link Dokdobaru
-	asteroids "small rock" 2 6.9776
-	asteroids "medium rock" 11 7.448
-	asteroids "large rock" 1 7.9968
-	asteroids "small metal" 5 6.0368
-	asteroids "medium metal" 2 9.4864
-	asteroids "large metal" 4 5.0176
+	asteroids "small rock" 2 0.9776
+	asteroids "medium rock" 11 0.448
+	asteroids "large rock" 1 0.9968
+	asteroids "small metal" 5 0.0368
+	asteroids "medium metal" 2 0.4864
+	asteroids "large metal" 34 0.0176
 	trade Clothing 309
 	trade Electronics 851
 	trade Equipment 359
@@ -6637,12 +6637,12 @@ system Chy'chra
 	belt 1120
 	link Prakacha'a
 	link Ik'kara'ka
-	asteroids "small rock" 5 3.8019
-	asteroids "medium rock" 6 5.0141
-	asteroids "large rock" 2 3.0305
-	asteroids "medium metal" 9 6.8875
-	asteroids "large metal" 11 5.1794
-	minables tungsten 2 7.05176
+	asteroids "small rock" 5 1.8019
+	asteroids "medium rock" 6 1.0141
+	asteroids "large rock" 2 2.0305
+	asteroids "medium metal" 9 3.8875
+	asteroids "large metal" 11 3.1794
+	minables tungsten 2 2.05176
 	trade Clothing 197
 	trade Electronics 888
 	trade Equipment 449
@@ -6754,12 +6754,12 @@ system Coluber
 	link Parca
 	link Levana
 	link Lucina
-	asteroids "small rock" 4 2.1021
-	asteroids "medium rock" 21 1.8291
-	asteroids "large rock" 22 4.0131
-	asteroids "small metal" 11 3.7947
+	asteroids "small rock" 4 1.1021
+	asteroids "medium rock" 11 0.8291
+	asteroids "large rock" 22 1.0131
+	asteroids "small metal" 11 1.7947
 	asteroids "medium metal" 1 2.3751
-	asteroids "large metal" 124 1.7199
+	asteroids "large metal" 74 1.7199
 	trade Clothing 315
 	trade Electronics 713
 	trade Equipment 394
@@ -6812,14 +6812,14 @@ system Companion
 	belt 1786
 	link "Sol Saryd"
 	link "Far Horizon"
-	asteroids "small rock" 18 8.265
-	asteroids "medium rock" 3 8.845
-	asteroids "large rock" 6 8.845
-	asteroids "small metal" 6 9.715
-	asteroids "medium metal" 30 3.915
-	asteroids "large metal" 2 4.1325
-	minables aluminum 2 8.36691
-	minables silicon 7 10.9209
+	asteroids "small rock" 18 1.265
+	asteroids "medium rock" 3 0.845
+	asteroids "large rock" 6 0.845
+	asteroids "small metal" 6 3.715
+	asteroids "medium metal" 30 1.915
+	asteroids "large metal" 2 2.1325
+	minables aluminum 2 2.36691
+	minables silicon 7 1.9209
 	trade Clothing 292
 	trade Electronics 813
 	trade Equipment 442
@@ -6931,14 +6931,14 @@ system "Cor Caroli"
 	link Gacrux
 	link Algorel
 	link Mizar
-	asteroids "small rock" 24 3.2472
+	asteroids "small rock" 24 1.2472
 	asteroids "medium rock" 20 1.4784
-	asteroids "large rock" 5 2.7456
+	asteroids "large rock" 5 1.7456
 	asteroids "small metal" 6 2.376
 	asteroids "medium metal" 1 1.5576
 	asteroids "large metal" 8 1.3992
 	minables aluminum 2 2.98979
-	minables platinum 2 3.79511
+	minables platinum 2 1.79511
 	minables uranium 4 2.87365
 	trade Clothing 236
 	trade Electronics 785
@@ -6987,12 +6987,12 @@ system "Da Ent"
 	belt 1161
 	link "Ya Hai"
 	asteroids "small rock" 31 1.3005
-	asteroids "medium rock" 21 3.213
-	asteroids "large rock" 160 3.4425
-	asteroids "medium metal" 23 3.417
+	asteroids "medium rock" 21 1.213
+	asteroids "large rock" 60 1.4425
+	asteroids "medium metal" 23 1.417
 	asteroids "large metal" 26 1.428
-	minables lead 85 5.2954
-	minables silicon 4 4.19935
+	minables lead 85 2.2954
+	minables silicon 4 2.19935
 	trade Clothing 148
 	trade Electronics 655
 	trade Equipment 420
@@ -7045,15 +7045,15 @@ system "Da Lest"
 	habitable 320
 	belt 1108
 	link "Lom Tahr"
-	asteroids "small rock" 5 3.69
-	asteroids "medium rock" 7 4.17
-	asteroids "large rock" 4 3.3
-	asteroids "small metal" 1 3.63
-	asteroids "medium metal" 101 2.04
-	asteroids "large metal" 23 4.44
-	minables silicon 35 5.1558
-	minables titanium 12 3.16646
-	minables uranium 5 3.90543
+	asteroids "small rock" 5 1.69
+	asteroids "medium rock" 7 1.17
+	asteroids "large rock" 4 1.3
+	asteroids "small metal" 1 1.63
+	asteroids "medium metal" 51 2.04
+	asteroids "large metal" 23 1.44
+	minables silicon 35 1.1558
+	minables titanium 12 2.16646
+	minables uranium 5 1.90543
 	trade Clothing 338
 	trade Electronics 885
 	trade Equipment 530
@@ -7101,9 +7101,9 @@ system Dabih
 	link Eltanin
 	link "Kaus Australis"
 	link Lurata
-	asteroids "small rock" 1 3.456
-	asteroids "medium rock" 9 2.976
-	asteroids "large rock" 1 2.784
+	asteroids "small rock" 1 1.456
+	asteroids "medium rock" 9 1.976
+	asteroids "large rock" 1 1.784
 	asteroids "large metal" 4 1.848
 	trade Clothing 232
 	trade Electronics 792
@@ -7157,15 +7157,15 @@ system Danoa
 	belt 1689
 	link Sumar
 	link Hassaleh
-	asteroids "small rock" 26 2.425
-	asteroids "medium rock" 274 2.15
-	asteroids "large rock" 40 2.275
+	asteroids "small rock" 26 1.425
+	asteroids "medium rock" 74 1.15
+	asteroids "large rock" 40 0.575
 	asteroids "small metal" 11 1.875
 	asteroids "medium metal" 17 2.15
 	asteroids "large metal" 13 1.3
-	minables copper 47 2.85289
+	minables copper 27 1.85289
 	minables silicon 20 2.3468
-	minables titanium 3 3.894
+	minables titanium 3 1.894
 	trade Clothing 301
 	trade Electronics 842
 	trade Equipment 714
@@ -7222,14 +7222,14 @@ system "Dark Hills"
 	link Remembrance
 	link "Broken Bowl"
 	link Hunter
-	asteroids "small rock" 16 3.4944
-	asteroids "medium rock" 2 4.8384
-	asteroids "large rock" 10 4.9536
-	asteroids "small metal" 7 2.8416
+	asteroids "small rock" 16 1.4944
+	asteroids "medium rock" 2 1.8384
+	asteroids "large rock" 10 1.9536
+	asteroids "small metal" 7 1.8416
 	asteroids "medium metal" 8 1.92
-	asteroids "large metal" 12 4.1472
-	minables gold 2 5.3967
-	minables iron 4 6.82272
+	asteroids "large metal" 12 1.1472
+	minables gold 2 1.3967
+	minables iron 4 2.82272
 	trade Clothing 299
 	trade Electronics 672
 	trade Equipment 385
@@ -7418,15 +7418,15 @@ system "Delta Sagittarii"
 	link "Alpha Arae"
 	link Eltanin
 	link Tais
-	asteroids "small rock" 35 4.914
-	asteroids "medium rock" 14 4.4577
-	asteroids "large rock" 8 2.5623
-	asteroids "small metal" 43 5.1597
-	asteroids "medium metal" 45 2.1762
-	asteroids "large metal" 16 4.0716
-	minables aluminum 32 4.42482
-	minables iron 9 4.88567
-	minables silicon 1 4.38847
+	asteroids "small rock" 15 1.914
+	asteroids "medium rock" 14 1.4577
+	asteroids "large rock" 8 1.5623
+	asteroids "small metal" 23 1.1597
+	asteroids "medium metal" 25 2.1762
+	asteroids "large metal" 16 1.0716
+	minables aluminum 12 1.42482
+	minables iron 9 1.88567
+	minables silicon 1 2.38847
 	trade Clothing 283
 	trade Electronics 731
 	trade Equipment 568
@@ -7483,14 +7483,14 @@ system "Delta Velorum"
 	link Fala
 	link Mora
 	asteroids "small rock" 6 2.775
-	asteroids "medium rock" 39 2.8875
-	asteroids "large rock" 6 3.45
-	asteroids "small metal" 11 3.6
-	asteroids "medium metal" 54 5.4375
-	asteroids "large metal" 5 3.8625
-	minables lead 7 4.67725
-	minables neodymium 17 5.3117
-	minables silver 8 8.15115
+	asteroids "medium rock" 39 1.8875
+	asteroids "large rock" 6 2.45
+	asteroids "small metal" 11 2.6
+	asteroids "medium metal" 54 1.4375
+	asteroids "large metal" 5 1.8625
+	minables lead 7 1.67725
+	minables neodymium 17 2.3117
+	minables silver 8 1.15115
 	trade Clothing 317
 	trade Electronics 672
 	trade Equipment 468
@@ -7536,15 +7536,15 @@ system Deneb
 	government Pug
 	habitable 625
 	belt 1890
-	asteroids "small rock" 4 4.62
-	asteroids "medium rock" 192 8.82
-	asteroids "large rock" 42 10.332
-	asteroids "small metal" 74 11.088
-	asteroids "medium metal" 2 4.536
-	asteroids "large metal" 11 6.972
-	minables aluminum 7 15.5891
-	minables silicon 12 13.0697
-	minables titanium 51 14.5121
+	asteroids "small rock" 4 1.62
+	asteroids "medium rock" 92 0.82
+	asteroids "large rock" 42 1.332
+	asteroids "small metal" 74 1.088
+	asteroids "medium metal" 2 1.536
+	asteroids "large metal" 11 1.972
+	minables aluminum 7 1.5891
+	minables silicon 12 1.0697
+	minables titanium 31 1.5121
 	trade Clothing 314
 	trade Electronics 777
 	trade Equipment 589
@@ -7593,11 +7593,11 @@ system Denebola
 	link Sol
 	link Merak
 	link Fingol
-	asteroids "small rock" 23 8.91
-	asteroids "medium rock" 13 5.1084
-	asteroids "large rock" 15 4.6926
-	asteroids "medium metal" 13 6.831
-	asteroids "large metal" 1 8.019
+	asteroids "small rock" 13 1.91
+	asteroids "medium rock" 13 1.1084
+	asteroids "large rock" 15 1.6926
+	asteroids "medium metal" 13 1.831
+	asteroids "large metal" 1 1.019
 	minables copper 3 8.29669
 	minables lead 3 11.4823
 	minables silicon 3 7.30806
@@ -7657,7 +7657,7 @@ system Diphda
 	link Ankaa
 	link Caph
 	link Acamar
-	asteroids "small rock" 2 4.536
+	asteroids "small rock" 2 1.536
 	asteroids "medium rock" 3 0.7112
 	asteroids "large rock" 9 0.0264
 	asteroids "small metal" 4 0.3136
@@ -7713,14 +7713,14 @@ system Dokdobaru
 	link Furmeliki
 	link Meftarkata
 	link Chornifath
-	asteroids "small rock" 4 5.6295
-	asteroids "medium rock" 1 5.751
+	asteroids "small rock" 4 2.6295
+	asteroids "medium rock" 1 2.751
 	asteroids "large rock" 2 2.349
-	asteroids "small metal" 1 4.05
-	asteroids "medium metal" 2 4.05
-	asteroids "large metal" 3 2.0655
-	minables lead 3 5.25735
-	minables silicon 3 5.59881
+	asteroids "small metal" 1 2.05
+	asteroids "medium metal" 2 1.05
+	asteroids "large metal" 3 1.0655
+	minables lead 3 2.25735
+	minables silicon 3 1.59881
 	trade Clothing 292
 	trade Electronics 832
 	trade Equipment 363
@@ -7819,9 +7819,9 @@ system Dschubba
 	asteroids "medium rock" 16 0.85
 	asteroids "large rock" 11 1.375
 	asteroids "small metal" 27 1.075
-	asteroids "medium metal" 31 1.3
+	asteroids "medium metal" 21 1.3
 	asteroids "large metal" 28 1.5
-	minables aluminum 17 2.17333
+	minables aluminum 7 2.17333
 	minables iron 14 2.26089
 	minables silicon 19 2.44288
 	trade Clothing 360
@@ -7885,12 +7885,12 @@ system Dubhe
 	habitable 349.375
 	belt 1120
 	link Zosma
-	asteroids "medium rock" 12 3.5496
-	asteroids "large rock" 1 3.48
-	asteroids "small metal" 1 3.9672
+	asteroids "medium rock" 12 1.5496
+	asteroids "large rock" 1 1.48
+	asteroids "small metal" 1 1.9672
 	asteroids "medium metal" 45 1.8792
-	asteroids "large metal" 2 5.0112
-	minables silicon 14 3.5667
+	asteroids "large metal" 2 1.0112
+	minables silicon 14 1.5667
 	trade Clothing 386
 	trade Electronics 779
 	trade Equipment 541
@@ -7945,12 +7945,12 @@ system "Due Yoot"
 	link "Heia Due"
 	link "Rati Cal"
 	link "Lom Tahr"
-	asteroids "small rock" 2 4.5045
-	asteroids "medium rock" 11 3.15
-	asteroids "large rock" 4 4.0635
-	asteroids "medium metal" 2 3.9375
-	asteroids "large metal" 1 3.528
-	minables titanium 5 3.77479
+	asteroids "small rock" 2 1.5045
+	asteroids "medium rock" 11 1.15
+	asteroids "large rock" 4 1.0635
+	asteroids "medium metal" 2 1.9375
+	asteroids "large metal" 1 1.528
+	minables titanium 5 1.77479
 	trade Clothing 308
 	trade Electronics 765
 	trade Equipment 540
@@ -8004,13 +8004,13 @@ system Durax
 	habitable 1080
 	belt 1287
 	link Alcyone
-	asteroids "small rock" 16 8.1744
-	asteroids "medium rock" 4 5.304
-	asteroids "large rock" 6 6.6768
-	asteroids "small metal" 1 9.1728
-	asteroids "medium metal" 11 7.8624
-	asteroids "large metal" 1 8.6736
-	minables lead 9 12.9774
+	asteroids "small rock" 16 1.1744
+	asteroids "medium rock" 4 1.304
+	asteroids "large rock" 6 1.6768
+	asteroids "small metal" 1 1.1728
+	asteroids "medium metal" 11 1.8624
+	asteroids "large metal" 1 1.6736
+	minables lead 9 1.9774
 	trade Clothing 381
 	trade Electronics 747
 	trade Equipment 714
@@ -8069,14 +8069,14 @@ system Eber
 	link Alnasl
 	link "Alpha Arae"
 	asteroids "small rock" 18 1.4868
-	asteroids "medium rock" 3 3.5532
+	asteroids "medium rock" 3 1.5532
 	asteroids "large rock" 13 1.8648
-	asteroids "small metal" 13 3.0744
-	asteroids "medium metal" 1 2.0916
-	asteroids "large metal" 19 2.3436
-	minables aluminum 1 3.67652
-	minables platinum 2 3.43245
-	minables uranium 4 2.53236
+	asteroids "small metal" 13 1.0744
+	asteroids "medium metal" 1 1.0916
+	asteroids "large metal" 19 1.3436
+	minables aluminum 1 1.67652
+	minables platinum 2 1.43245
+	minables uranium 4 1.53236
 	trade Clothing 321
 	trade Electronics 672
 	trade Equipment 455
@@ -8130,12 +8130,12 @@ system Eblumab
 	habitable 425.92
 	belt 1804
 	link Blugtad
-	asteroids "small rock" 10 7.8364
-	asteroids "medium rock" 39 4.1756
-	asteroids "large rock" 2 8.294
-	asteroids "small metal" 20 3.7752
-	asteroids "medium metal" 2 4.0612
-	asteroids "large metal" 33 4.5188
+	asteroids "small rock" 10 1.8364
+	asteroids "medium rock" 39 1.1756
+	asteroids "large rock" 2 1.294
+	asteroids "small metal" 20 1.7752
+	asteroids "medium metal" 2 1.0612
+	asteroids "large metal" 33 1.5188
 	minables copper 8 6.10344
 	minables iron 6 6.39134
 	minables lead 17 7.069
@@ -8199,7 +8199,7 @@ system Edusa
 	asteroids "medium rock" 1 1.55307
 	asteroids "large rock" 4 1.274
 	asteroids "large metal" 1 0.7644
-	minables silicon 2 1.59549
+	minables silicon 2 0.59549
 	trade Clothing 378
 	trade Electronics 713
 	trade Equipment 592
@@ -8244,14 +8244,14 @@ system "Ehma Ti"
 	habitable 486.68
 	belt 1094
 	link "Wah Yoot"
-	asteroids "small rock" 1 3.276
+	asteroids "small rock" 1 1.276
 	asteroids "medium rock" 1 1.7472
-	asteroids "large rock" 3 3.0576
-	asteroids "medium metal" 3 3.9858
-	asteroids "large metal" 1 3.549
-	minables lead 2 4.84357
+	asteroids "large rock" 3 0.0576
+	asteroids "medium metal" 3 0.9858
+	asteroids "large metal" 1 0.549
+	minables lead 2 2.84357
 	minables silver 2 3.81787
-	minables titanium 1 3.78167
+	minables titanium 1 1.78167
 	trade Clothing 308
 	trade Electronics 795
 	trade Equipment 550
@@ -8314,9 +8314,9 @@ system Ek'kek'ru
 	link Si'yak'ku
 	link Pik'ro'iyak
 	link Iyech'yek
-	asteroids "small rock" 54 1.683
+	asteroids "small rock" 24 1.683
 	asteroids "medium rock" 12 1.1385
-	asteroids "large rock" 50 1.5015
+	asteroids "large rock" 20 1.5015
 	asteroids "small metal" 15 2.0625
 	asteroids "large metal" 10 1.0725
 	minables aluminum 13 2.30409
@@ -8372,14 +8372,14 @@ system Ekuarik
 	link Quaru
 	link Belug
 	link Speloog
-	asteroids "small rock" 2 4.5954
-	asteroids "medium rock" 3 9.1908
-	asteroids "large rock" 2 5.5269
-	asteroids "small metal" 131 5.4648
-	asteroids "medium metal" 50 7.8867
-	asteroids "large metal" 23 9.1287
-	minables iron 39 9.39516
-	minables silicon 2 6.84215
+	asteroids "small rock" 2 1.5954
+	asteroids "medium rock" 3 1.1908
+	asteroids "large rock" 2 1.5269
+	asteroids "small metal" 31 1.4648
+	asteroids "medium metal" 50 1.8867
+	asteroids "large metal" 23 1.1287
+	minables iron 29 1.39516
+	minables silicon 2 0.84215
 	trade Clothing 389
 	trade Electronics 660
 	trade Equipment 673
